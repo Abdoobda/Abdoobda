@@ -81,13 +81,6 @@ Developed an AI-powered decision support system for optimizing corrosion inspect
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdoobda&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoobda&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-boukhelif-4596bb330/)  
